@@ -20,7 +20,7 @@ Este projeto é uma calculadora de emissões de carbono desenvolvida em Python. 
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seuusuario/calculadora-emissoes-carbono.git
+    git clone https://github.com/gioguedes/calculadora-emissoes-carbono.git
     ```
 2. Navegue até o diretório do projeto:
     ```bash
